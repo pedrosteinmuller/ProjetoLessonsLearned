@@ -4,6 +4,10 @@
 
 body {
   background-color: rgb(253, 251, 251);
+  font-family:monospace;
+  font-size:15px;
+  color:brown;
+  line-height: 30px;
 }
 
 #cabecalho {
