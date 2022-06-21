@@ -50,3 +50,19 @@ body {
   vertical-align: top;
   text-align: justify;
 }
+
+.table1 {
+  
+  background: orange; 
+   border-color: blue; 
+   border-style:dashed; 
+}
+
+.table1 tr {
+     text-align: center; 
+}
+
+.table1 th {
+  background: #666;
+  color: white; 
+}
